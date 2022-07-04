@@ -1,0 +1,3 @@
+# Find your nanoleaf
+
+Because Speedport hides them and the discovery protocol didnt work, but this somehow worked.....
